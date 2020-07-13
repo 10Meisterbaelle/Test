@@ -1,28 +1,66 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.felix.meinerstestheme
+Version: 1.1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: Felix <neumaif02@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.felix.meinerstestheme_1.1_iphoneos-arm.deb
+Size: 9772432
+MD5sum: b5ddeee16b50ec2da7d0763bd44de7da
+SHA1: 32e73d7a273e45731b6d740acafd48ff54d2e17b
+SHA256: 90885407efeb7427928b6b0e0ee7023adced6e5a4e27e5d751b0cdd255943004
+Section: Themes
+Description: Mein erster Versuch, ein Theme zu erstellen.
+Author: Felix <neumaif02@gmail.com>
+Depiction: https://10Meisterbaelle.gitlab.io/jailbreak/depictions/?p=com.felix.meinerstestheme
+Name: Mein erstes Theme
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.leaked.artcele
+Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: Felix <neumaif02@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.leaked.artcele_1.0_iphoneos-arm.deb
+Size: 122892
+MD5sum: f2d2eeab555b6c325f9c7e14bfe7e45f
+SHA1: 2ed53aacc6ba3c78be45d9fa50060f275b18d8dd
+SHA256: 0dff5e37db09407ab008a2312226d7b6b83aa83a6b6e52e0aaf1b98382062ad3
+Section: Themes
+Description: Das Icon von Artcele als Theme für Chimera.
+Author: Felix <neumaif02@gmail.com>
+Depiction: https://10Meisterbaelle.gitlab.io/jailbreak/depictions/?p=com.leaked.artcele
+Icon: https://10Meisterbaelle.gitlab.io/jailbreak/icons/com.leaked.artcele.png
+Name: Artcele Icon
+
+Package: com.old.cydia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Felix <neumaif02@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.old.cydia_1.0_iphoneos-arm.deb
+Size: 132836
+MD5sum: 4899e33c6bdadae6f77c6daa2eada4a4
+SHA1: 3089253e2c96f73fff6ae436ad3c5e0411f81a89
+SHA256: 96734139a2c0134bddb410d897f03d5486a1f7ad40f16c417a7371de86cb7976
+Section: Themes
+Description: Das alte Cydia-Icon
+Author: Felix <neumaif02@gmail.com>
+Depiction: https://10Meisterbaelle.gitlab.io/jailbreak/?p=com.old.cydia
+Icon: https://10Meisterbaelle.gitlab.io/jailbreak/icons/com.old.cydia.png
+Name: Altes Cydia-Icon
+
+Package: com.sy1dev.simple
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Unknown <idk@example.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.sy1dev.simple_1.0.0_iphoneos-arm.deb
+Size: 529384
+MD5sum: 5e256172be25e8360c70c323fac2d71e
+SHA1: bcb8e72a4964679ce70b0c16c4e55d444645a088
+SHA256: b3973c1800e3a9cb597b9ba5db1a3a429067d1d79b3f7566aa0b44ecedba5bc2
+Section: Themes
+Description: A simple theme created in Paint.
+Author: SY Dev <sy1dev@hotmail.com>
+Depiction: https://10Meisterbaelle.github.io/jailbreak/?p=com.sy1dev.simple
+Name: Simple
 
