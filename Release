@@ -1,0 +1,8 @@
+Origin: 10Meisterbaelle's Jailbreak Tweaks
+Label: 10Meisterbaelle's Jailbreak Tweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: The 10Meisterbaelle Jailbreak Repo.

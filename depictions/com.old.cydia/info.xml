@@ -1,0 +1,33 @@
+<package>
+	<id>com.old.cydia</id>
+	<name>Altes Cydia-Icon</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<shortDescription>Das alte Cydia-Icon</shortDescription>
+	<descriptionlist>
+		<description>Das alte Icon für Cydia.</description>
+		<description>Funktioniert auch mit Sileo und Zebra.</description>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>icon.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Erste Version</change>
+	</changelog>
+	<links></links>
+</package>

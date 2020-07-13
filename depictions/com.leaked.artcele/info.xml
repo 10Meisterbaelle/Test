@@ -1,0 +1,27 @@
+<package>
+	<id>com.leaked.artcele</id>
+	<name>Artcele Icon</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<maxiOS>12.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<shortDescription>Mein erster Versuch, ein Theme zu erstellen.</shortDescription>
+	<descriptionlist>
+		<description>Das Icon von Artcele als Theme für Chimera.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
